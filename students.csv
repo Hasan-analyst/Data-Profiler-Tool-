@@ -1,0 +1,16 @@
+Name,Age,Gender,Department,Math_Score,Science_Score,English_Score
+Ali,17,Male,Science,88,92,85
+Sara,16,Female,Arts,78,65,80
+Ravi,18,Male,Commerce,91,89,75
+Anjali,17,Female,Science,84,90,88
+Zara,16,Female,Arts,65,70,60
+Arun,18,Male,Science,,93,85
+Nina,17,Female,Commerce,75,80,78
+Karan,16,Male,Arts,70,66,
+Mira,17,Female,Science,88,85,92
+John,18,Male,Commerce,80,78,74
+Tina,16,Female,Science,90,95,96
+Sam,17,Male,Commerce,85,,80
+Lina,17,Female,Arts,60,58,70
+Kamal,18,Male,Science,89,91,90
+Ritu,16,Female,Arts,72,75,74
